@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 some content
 changed from master
+=======
+file changed from feature
+>>>>>>> rishika
+this is the new file
